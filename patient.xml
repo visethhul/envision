@@ -16,7 +16,7 @@
           </p>
         </field>
     </record>
-<menuitem id="hospital_root" name="Hospital" sequence="0"​/>
+<menuitem id="hospital_root" name="Hospital" sequence="1"​/>
 <menuitem id="hospital_patient" name="Patients" parent="hospital_root" action="action_patient"/>
 
 </odoo>
