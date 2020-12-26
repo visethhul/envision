@@ -17,7 +17,7 @@
         </field>
     </record>
 
-<menuitem id="hospital_root" name="Hospital" sequence="1"​   web_icon="envision,static/description/icon.png"/>
+<menuitem id="hospital_root" name="Hospital" sequence="1"​   web_icon="envision,static/description/icon2.png"/>
 <menuitem id="hospital_patient" name="Patients" parent="hospital_root" action="action_patient"/>
 
 </odoo>

@@ -12,7 +12,7 @@
     'depends': ['sale', 'mail'],
     'demo': [],
     'data': ['patient.xml'],
-    'images': ['static/description/icon.png'],
+    'images': ['static/description/icon2.png'],
     'installable': True,
     'application': True,
     'auto_install': False,
